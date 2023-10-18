@@ -30,6 +30,12 @@ Our secret recipe for YumyumJunction includes the following ingredients:
 
 🌐 **Live Demo**: [Taste the Website](https://yumyumjunction-swamithedev.vercel.app/)
 
+📧 **Get in Touch**
+For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
+
+🌟 **Portfolio**
+Discover more of our fantastic projects at [SwamiTheDev Portfolio](https://swamithedev.vercel.app). Your journey into the world of technology starts here!
+
 Join us at YumyumJunction for a mouthwatering experience. Don't miss out on this delightful journey through the world of food and design! 🍽️🌟
 
-### #FoodieFridays #DeliciousDesign #WebDevMagic #ResponsiveRestaurants #BootstrapBites
+### #FoodieFridays #DeliciousDesign #WebDevMagic #ResponsiveRestaurants #BootstrapBites #swaminathanselvam #swamithedev #innovation #frontendProject
