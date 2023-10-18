@@ -1,10 +1,10 @@
-# 🍔 YumyumJunction 🍽️
+# 🍔 YumYumJunction 🍽️
 
-Welcome to YumyumJunction – a delectable destination for all things food! 👋
+Welcome to YumYumJunction – a delectable destination for all things food! 👋
 
 ## Project Description
 
-YumyumJunction is your one-stop restaurant website for an enticing dining experience. We've sprinkled this project with a pinch of animation, a dash of responsive design, and a heap of attractive UI to create a feast for the eyes and taste buds.
+YumYumJunction is your one-stop restaurant website for an enticing dining experience. We've sprinkled this project with a pinch of animation, a dash of responsive design, and a heap of attractive UI to create a feast for the eyes and taste buds.
 
 🎉 Here's what's cooking in our project:
 
